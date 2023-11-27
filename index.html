@@ -15,7 +15,11 @@
     <body>
         <main>
             <section class="product-card">
-                <img class="product-image" src="resources/image-product-mobile.jpg" alt="perfume bottle" />
+                <picture>
+                    <source srcset="resources/image-product-mobile.jpg" media="(max-width: 599px)" />
+                    <source srcset="resources/image-product-desktop.jpg" media="(min-width: 600px)" />
+                    <img src="resources/image-product-mobile.jpg" alt="product" class="product-image" />
+                </picture>
 
                 <div class="product-info">
                     <h2 class="product-category">Perfume</h2>
