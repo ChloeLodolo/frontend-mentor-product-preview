@@ -1,23 +1,14 @@
-# Frontend Mentor - Product preview component solution
-
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
+# Frontend Mentor - Product preview card component solution
 
 ## overview
+
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
 
 ![](./screenshot.png)
 
 You can see the live solution [here](https://chloelodolo.github.io/frontend-mentor-product-preview/).
 
-## building process
-
-This project was built with:
-- semantic HTML5 markup,
-- the picture element,
-- CSS custom properties,
-- flexbox,
-- and a mobile-first approach.
-
 ## author
 
-- Website - [chloe.lodolo.github.io](https://chloelodolo.github.io)
+- website - [chloe.lodolo.github.io](https://chloelodolo.github.io)
 - Frontend Mentor - [@Chloé](https://www.frontendmentor.io/profile/ChloeLodolo)
