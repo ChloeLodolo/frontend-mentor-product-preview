@@ -1,4 +1,4 @@
-# Frontend Mentor - product preview component solution
+# Frontend Mentor - Product preview component solution
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
 
@@ -19,5 +19,5 @@ This project was built with:
 
 ## author
 
-- website - [chloe.lodolo.github.io](https://chloelodolo.github.io)
-- frontend mentor - [@Chloé](https://www.frontendmentor.io/profile/ChloeLodolo)
+- Website - [chloe.lodolo.github.io](https://chloelodolo.github.io)
+- Frontend Mentor - [@Chloé](https://www.frontendmentor.io/profile/ChloeLodolo)
